@@ -1,0 +1,60 @@
+body{
+    background-image: url("img/Marital art competitions.jpg");
+    margin: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.top-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .bottom-left {
+    color: red;
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+  }
+  
+  .bottom-right {
+    color: red;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+  }
+  
+  .centered {
+    color: red;
+    text-shadow: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+hr {
+    background-color: whitesmoke;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:dodgerblue;
+    border-width: 5px;
+    width: 5%;
+}
+
+.bottom-container{
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+    position: relative;
+}
+
+.lower-container{
+    color: blue;
+    text-align: center;
+    position: relative;
+    background-color: black;
+    padding: 20px 0 20px;
+}
